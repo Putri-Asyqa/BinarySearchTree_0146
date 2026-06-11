@@ -122,4 +122,6 @@ public:
             cout << ptr->info << " ";
         }
     }
-}
+};
+
+int main()
