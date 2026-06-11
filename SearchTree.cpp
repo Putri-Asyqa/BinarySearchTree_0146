@@ -125,3 +125,6 @@ public:
 };
 
 int main()
+{
+    Binary obj;
+}
